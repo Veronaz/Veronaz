@@ -18,8 +18,8 @@ More yet to come!
 
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Devops ✍️
-- Cloud engineering
+- Devops ⚙
+- Cloud engineering ☁
 
 
 ### :zap: Github Stats
