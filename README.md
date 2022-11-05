@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-veronazheng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verona-zheng/)](https://www.linkedin.com/in/verona-zheng/)
 
 
-- 🎯 Portfolio website: [Portfolio](https://github.com/Veronaz))
+- 🎯 Portfolio website: [Portfolio](https://github.com/Veronaz)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
